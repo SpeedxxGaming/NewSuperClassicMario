@@ -5,4 +5,6 @@ GBATemp: https://gbatemp.net/threads/wip-new-super-classic-mario-nsmb2-rom-hack.
 
 NSMBHD: https://nsmbhd.net/thread/4106-new-super-classic-mario-nsmb2-rom-hack-wip-nsmb2/
 
+Discord: https://discord.gg/t8CgTu
+
 Check back often to see if there's a new release!
